@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lansdownfoundry.thechels.uk/sitemap.xml
