@@ -83,6 +83,7 @@ h2.serif{font-family:var(--suffolks);font-weight:700}
 .shot strong{display:block;color:var(--cream);font-family:var(--battledown);font-size:16px}
 .mac-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
 .mac-grid figure{margin:0}
+.mac-grid figure:first-child{grid-column:1/-1}
 .mac-grid img{display:block;width:100%;border-radius:14px;border:1px solid var(--line);box-shadow:0 18px 40px rgba(0,0,0,.35)}
 .privacy-section{padding:72px 0 0}
 .privacy-inner{position:relative;overflow:hidden;padding:56px;border:1px solid var(--line);border-radius:28px;background:var(--card)}

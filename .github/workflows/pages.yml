@@ -50,7 +50,6 @@ jobs:
           test -s images/ipad-export.jpg
           test -s images/ipad-new.jpg
           test -s images/mac-editor.jpg
-          test -s images/mac-library.jpg
           test -s images/mac-flair.jpg
           test -s images/mac-export.jpg
 
@@ -60,7 +59,7 @@ jobs:
           mkdir -p _site/images _site/fonts
           cp index.html styles.css CNAME robots.txt sitemap.xml _site/
           cp fonts/Battledown-Regular.woff2 fonts/Battledown-Bold.woff2 fonts/Suffolks-Regular.woff2 fonts/Suffolks-Bold.woff2 fonts/Leckhampton-Regular.woff2 _site/fonts/
-          cp images/lansdown-foundry-icon.png images/og-image.png images/app-store-badge.svg images/glyph-g.svg images/glyph-Q.svg images/ipad-draw.jpg images/ipad-library.jpg images/ipad-flair.jpg images/ipad-spacing.jpg images/ipad-export.jpg images/ipad-new.jpg images/mac-editor.jpg images/mac-library.jpg images/mac-flair.jpg images/mac-export.jpg _site/images/
+          cp images/lansdown-foundry-icon.png images/og-image.png images/app-store-badge.svg images/glyph-g.svg images/glyph-Q.svg images/ipad-draw.jpg images/ipad-library.jpg images/ipad-flair.jpg images/ipad-spacing.jpg images/ipad-export.jpg images/ipad-new.jpg images/mac-editor.jpg images/mac-flair.jpg images/mac-export.jpg _site/images/
 
       - name: Configure GitHub Pages
         if: github.event_name != 'pull_request'
