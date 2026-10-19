@@ -6,7 +6,8 @@
 
 <p align="center">
   <strong>Design a typeface with Apple Pencil, then use it in every app.</strong><br>
-  <a href="https://lansdownfoundry.thechels.uk/">lansdownfoundry.thechels.uk</a> · Coming soon for iPad and Mac
+  <a href="https://lansdownfoundry.thechels.uk/">lansdownfoundry.thechels.uk</a> ·
+  <a href="https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991">Download on the App Store for iPad and Mac</a>
 </p>
 
 ---
@@ -67,8 +68,12 @@ TrueType (TTF) to install on any computer, and WOFF and WOFF2 for websites. You 
 **Do I need to know about type design?**
 No. Start from a stencil and trace. The app handles the technical side: metrics, kerning, weights and italics.
 
-**When is it available?**
-Lansdown Foundry is coming soon to the App Store for iPad and Mac. Visit [lansdownfoundry.thechels.uk](https://lansdownfoundry.thechels.uk/) for launch details.
+**Where can I get it?**
+Lansdown Foundry is [available now on the App Store](https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991) for iPad and Mac.
+
+<p align="center">
+  <a href="https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991"><img src="images/app-store-badge.svg" alt="Download on the App Store" height="48"></a>
+</p>
 
 ---
 
