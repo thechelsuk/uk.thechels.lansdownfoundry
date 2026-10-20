@@ -1,0 +1,58 @@
+# Lansdown Foundry
+
+> Lansdown Foundry is a font maker for iPad and Mac. Draw letters with Apple Pencil, a mouse, a trackpad or a graphics tablet, and they become a real, installable font.
+
+Available now on the App Store for iPad and Mac.
+
+Key facts:
+
+- Platform: iPad with Apple Pencil (iPadOS 18 or later) and Mac with Apple silicon; universal purchase
+- Price: £19.99, paid once; no in-app purchases, no subscription
+- Privacy: no account, no ads, nothing collected; fonts sync through the user's own iCloud Drive
+- Included typefaces: Suffolks (book serif), Battledown (rounded sans) and Leckhampton (slab serif)
+- Developer: Mat Benfield (thechelsuk), made in the UK
+
+## Links
+
+- [Lansdown Foundry website](https://lansdownfoundry.thechels.uk/): the official marketing site
+- [App Store](https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991): download the app
+- [Privacy policy](https://thechels.uk/app/privacy): what the app does and does not collect
+- [Project page](https://thechels.uk/projects/foundry): background from the developer
+
+## Features
+
+- Draw letters with a calligraphic nib using Apple Pencil
+- Trace a stencil or start from scratch
+- Key letters generate related letters and accents
+- Balls, curls and swashes on any stroke
+- Automatic spacing and kerning
+- Bold, Italic and Bold Italic generated from your drawing
+- Install fonts or export TrueType, WOFF and WOFF2
+- iCloud Drive sync between iPad and Mac
+
+## FAQ
+
+### Can I turn my handwriting into a font?
+
+Yes. Draw each key letter with Apple Pencil and Lansdown Foundry builds a complete font from your handwriting, with related letters, accents, spacing and kerning.
+
+### What font formats can I export?
+
+TrueType (TTF) to install on any computer, and WOFF and WOFF2 for websites. You can also install fonts directly on your iPad or Mac.
+
+### Do I need to know about type design?
+
+No. Start from a stencil and trace. The app handles the technical side: metrics, kerning, weights and italics.
+
+### How much does it cost?
+
+£19.99, paid once. One purchase covers iPad and Mac, with no in-app purchases and no subscription.
+
+### What do I need?
+
+An iPad with Apple Pencil running iPadOS 18 or later, or a Mac with Apple silicon.
+
+## Optional
+
+- [Site source on GitHub](https://github.com/thechelsuk/uk.thechels.lansdownfoundry): static HTML and CSS for this site
+- [More apps by thechelsuk](https://thechels.uk/projects): the developer's other apps and projects

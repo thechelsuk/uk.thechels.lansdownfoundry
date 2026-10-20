@@ -33,6 +33,7 @@ jobs:
           test -s CNAME
           test -s robots.txt
           test -s sitemap.xml
+          test -s llms.txt
           test -s fonts/Battledown-Regular.woff2
           test -s fonts/Battledown-Bold.woff2
           test -s fonts/Suffolks-Regular.woff2
@@ -57,7 +58,7 @@ jobs:
         if: github.event_name != 'pull_request'
         run: |
           mkdir -p _site/images _site/fonts
-          cp index.html styles.css CNAME robots.txt sitemap.xml _site/
+          cp index.html styles.css CNAME robots.txt sitemap.xml llms.txt _site/
           cp fonts/Battledown-Regular.woff2 fonts/Battledown-Bold.woff2 fonts/Suffolks-Regular.woff2 fonts/Suffolks-Bold.woff2 fonts/Leckhampton-Regular.woff2 _site/fonts/
           cp images/lansdown-foundry-icon.png images/og-image.png images/app-store-badge.svg images/glyph-g.svg images/glyph-Q.svg images/ipad-draw.jpg images/ipad-library.jpg images/ipad-flair.jpg images/ipad-spacing.jpg images/ipad-export.jpg images/ipad-new.jpg images/mac-editor.jpg images/mac-flair.jpg images/mac-export.jpg _site/images/
 
