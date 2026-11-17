@@ -52,6 +52,14 @@ No. Start from a stencil and trace. The app handles the technical side: metrics,
 
 An iPad with Apple Pencil running iPadOS 18 or later, or a Mac with Apple silicon.
 
+### Found a bug or have an idea?
+
+Tell me on GitHub: [raise an issue](https://github.com/thechelsuk/uk.thechels.lansdownfoundry/issues/new/choose) and choose the form for a bug, a feature request, a question or general feedback. You'll need a free GitHub account.
+
+### Can I just email you?
+
+Yes. Email feedback@thechels.uk with Lansdown Foundry in the subject.
+
 ## Optional
 
 - [Site source on GitHub](https://github.com/thechelsuk/uk.thechels.lansdownfoundry): static HTML and CSS for this site

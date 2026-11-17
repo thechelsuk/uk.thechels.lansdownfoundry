@@ -184,3 +184,9 @@ h2.serif{font-family:var(--suffolks);font-weight:700}
   color: var(--faq-muted);
   line-height: 1.6;
 }
+
+.faq-item p a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
